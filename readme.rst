@@ -1,3 +1,5 @@
+
+
 ###################
 The Purpose of the Project
 ###################
@@ -5,6 +7,11 @@ To help students concentrate on and develop skills, be able to give their best i
 every class whether it be virtual or physical, use their valuable time efficiently, and guide
 them via graphical analysis.
 
+*******************
+Project Overview
+*******************
+This project features live lectures, class participation through online quiz and
+graphical analysis.
 
 *******************
 Content
